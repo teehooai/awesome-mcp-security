@@ -1,0 +1,730 @@
+[
+  {
+    "slug": "abhiz123/todoist-mcp-server",
+    "owner": "abhiz123",
+    "repo": "todoist-mcp-server",
+    "description": "",
+    "category": "utility",
+    "transport": "",
+    "grade": "C",
+    "score": 5.6,
+    "scores": {
+      "description": 2.3,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 5,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/abhiz123/todoist-mcp-server",
+    "report_url": "https://spiderrating.com/s/abhiz123/todoist-mcp-server",
+    "last_scan_at": "2026-03-10T04:33:19.236790+00:00"
+  },
+  {
+    "slug": "ckreiling/mcp-server-docker",
+    "owner": "ckreiling",
+    "repo": "mcp-server-docker",
+    "description": "",
+    "category": "devtools",
+    "transport": "",
+    "grade": "C",
+    "score": 5.6,
+    "scores": {
+      "description": 2.5,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 19,
+    "stars": 0,
+    "forks": 0,
+    "license": "LGPL",
+    "github_url": "https://github.com/ckreiling/mcp-server-docker",
+    "report_url": "https://spiderrating.com/s/ckreiling/mcp-server-docker",
+    "last_scan_at": "2026-03-10T04:37:53.160887+00:00"
+  },
+  {
+    "slug": "kiliczsh/mcp-mongo-server",
+    "owner": "kiliczsh",
+    "repo": "mcp-mongo-server",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "C",
+    "score": 5.5,
+    "scores": {
+      "description": 2.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 11,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/kiliczsh/mcp-mongo-server",
+    "report_url": "https://spiderrating.com/s/kiliczsh/mcp-mongo-server",
+    "last_scan_at": "2026-03-10T04:37:53.164636+00:00"
+  },
+  {
+    "slug": "langchain-ai/langchain-mcp-adapters",
+    "owner": "langchain-ai",
+    "repo": "langchain-mcp-adapters",
+    "description": "",
+    "category": "ai",
+    "transport": "",
+    "grade": "C",
+    "score": 5.4,
+    "scores": {
+      "description": 1.7,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 18,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "report_url": "https://spiderrating.com/s/langchain-ai/langchain-mcp-adapters",
+    "last_scan_at": "2026-03-10T04:37:53.176593+00:00"
+  },
+  {
+    "slug": "tavily-ai/tavily-mcp",
+    "owner": "tavily-ai",
+    "repo": "tavily-mcp",
+    "description": "",
+    "category": "search",
+    "transport": "",
+    "grade": "C",
+    "score": 5.4,
+    "scores": {
+      "description": 1.9,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 6,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/tavily-ai/tavily-mcp",
+    "report_url": "https://spiderrating.com/s/tavily-ai/tavily-mcp",
+    "last_scan_at": "2026-03-10T04:37:53.188884+00:00"
+  },
+  {
+    "slug": "executeautomation/mcp-playwright",
+    "owner": "executeautomation",
+    "repo": "mcp-playwright",
+    "description": "",
+    "category": "web",
+    "transport": "",
+    "grade": "C",
+    "score": 5.2,
+    "scores": {
+      "description": 1.4,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 33,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/executeautomation/mcp-playwright",
+    "report_url": "https://spiderrating.com/s/executeautomation/mcp-playwright",
+    "last_scan_at": "2026-03-10T04:37:53.146799+00:00"
+  },
+  {
+    "slug": "neondatabase/mcp-server-neon",
+    "owner": "neondatabase",
+    "repo": "mcp-server-neon",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "D",
+    "score": 4.8,
+    "scores": {
+      "description": null,
+      "security": null,
+      "metadata": null
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": null,
+    "github_url": "https://github.com/neondatabase/mcp-server-neon",
+    "report_url": "https://spiderrating.com/s/neondatabase/mcp-server-neon",
+    "last_scan_at": "2026-03-10T01:13:15.899100+00:00"
+  },
+  {
+    "slug": "supabase-community/supabase-mcp",
+    "owner": "supabase-community",
+    "repo": "supabase-mcp",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "D",
+    "score": 4.5,
+    "scores": {
+      "description": null,
+      "security": null,
+      "metadata": null
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": null,
+    "github_url": "https://github.com/supabase-community/supabase-mcp",
+    "report_url": "https://spiderrating.com/s/supabase-community/supabase-mcp",
+    "last_scan_at": "2026-03-10T01:14:01.387854+00:00"
+  },
+  {
+    "slug": "modelcontextprotocol/servers",
+    "owner": "modelcontextprotocol",
+    "repo": "servers",
+    "description": "",
+    "category": "reference",
+    "transport": "",
+    "grade": "D",
+    "score": 4.2,
+    "scores": {
+      "description": null,
+      "security": null,
+      "metadata": null
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": null,
+    "github_url": "https://github.com/modelcontextprotocol/servers",
+    "report_url": "https://spiderrating.com/s/modelcontextprotocol/servers",
+    "last_scan_at": "2026-03-10T01:14:01.396732+00:00"
+  },
+  {
+    "slug": "Cloudflare/mcp-server-cloudflare",
+    "owner": "Cloudflare",
+    "repo": "mcp-server-cloudflare",
+    "description": "",
+    "category": "cloud",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 2.1,
+      "security": 0.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 43,
+      "high": 2,
+      "medium": 77,
+      "low": 0
+    },
+    "tool_count": 29,
+    "stars": 0,
+    "forks": 0,
+    "license": "Apache-2.0",
+    "github_url": "https://github.com/Cloudflare/mcp-server-cloudflare",
+    "report_url": "https://spiderrating.com/s/Cloudflare/mcp-server-cloudflare",
+    "last_scan_at": "2026-03-10T04:37:53.141364+00:00"
+  },
+  {
+    "slug": "QuantGeekDev/mongo-mcp",
+    "owner": "QuantGeekDev",
+    "repo": "mongo-mcp",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/QuantGeekDev/mongo-mcp",
+    "report_url": "https://spiderrating.com/s/QuantGeekDev/mongo-mcp",
+    "last_scan_at": "2026-03-10T04:37:53.124360+00:00"
+  },
+  {
+    "slug": "benborla/mcp-server-mysql",
+    "owner": "benborla",
+    "repo": "mcp-server-mysql",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 1.9,
+      "security": 4.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 2,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 2,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/benborla/mcp-server-mysql",
+    "report_url": "https://spiderrating.com/s/benborla/mcp-server-mysql",
+    "last_scan_at": "2026-03-10T04:37:53.157855+00:00"
+  },
+  {
+    "slug": "crystaldba/postgres-mcp",
+    "owner": "crystaldba",
+    "repo": "postgres-mcp",
+    "description": "",
+    "category": "database",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 7.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 1,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/crystaldba/postgres-mcp",
+    "report_url": "https://spiderrating.com/s/crystaldba/postgres-mcp",
+    "last_scan_at": "2026-03-10T04:37:53.186133+00:00"
+  },
+  {
+    "slug": "exa-labs/exa-mcp-server",
+    "owner": "exa-labs",
+    "repo": "exa-mcp-server",
+    "description": "",
+    "category": "search",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/exa-labs/exa-mcp-server",
+    "report_url": "https://spiderrating.com/s/exa-labs/exa-mcp-server",
+    "last_scan_at": "2026-03-10T04:37:53.150257+00:00"
+  },
+  {
+    "slug": "github/github-mcp-server",
+    "owner": "github",
+    "repo": "github-mcp-server",
+    "description": "",
+    "category": "devtools",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/github/github-mcp-server",
+    "report_url": "https://spiderrating.com/s/github/github-mcp-server",
+    "last_scan_at": "2026-03-10T04:37:53.182130+00:00"
+  },
+  {
+    "slug": "grafana/mcp-grafana",
+    "owner": "grafana",
+    "repo": "mcp-grafana",
+    "description": "",
+    "category": "monitoring",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "Apache-2.0",
+    "github_url": "https://github.com/grafana/mcp-grafana",
+    "report_url": "https://spiderrating.com/s/grafana/mcp-grafana",
+    "last_scan_at": "2026-03-10T04:37:53.179755+00:00"
+  },
+  {
+    "slug": "hashicorp/terraform-mcp-server",
+    "owner": "hashicorp",
+    "repo": "terraform-mcp-server",
+    "description": "",
+    "category": "cloud",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 5.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "LGPL",
+    "github_url": "https://github.com/hashicorp/terraform-mcp-server",
+    "report_url": "https://spiderrating.com/s/hashicorp/terraform-mcp-server",
+    "last_scan_at": "2026-03-10T04:37:53.169442+00:00"
+  },
+  {
+    "slug": "korotovsky/slack-mcp-server",
+    "owner": "korotovsky",
+    "repo": "slack-mcp-server",
+    "description": "",
+    "category": "communication",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": null,
+      "security": null,
+      "metadata": null
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": null,
+    "github_url": "https://github.com/korotovsky/slack-mcp-server",
+    "report_url": "https://spiderrating.com/s/korotovsky/slack-mcp-server",
+    "last_scan_at": "2026-03-10T01:13:15.892556+00:00"
+  },
+  {
+    "slug": "mark3labs/mcp-filesystem-server",
+    "owner": "mark3labs",
+    "repo": "mcp-filesystem-server",
+    "description": "",
+    "category": "filesystem",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 5.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/mark3labs/mcp-filesystem-server",
+    "report_url": "https://spiderrating.com/s/mark3labs/mcp-filesystem-server",
+    "last_scan_at": "2026-03-10T04:37:53.174169+00:00"
+  },
+  {
+    "slug": "metoro-io/metoro-mcp-server",
+    "owner": "metoro-io",
+    "repo": "metoro-mcp-server",
+    "description": "",
+    "category": "monitoring",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 5.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/metoro-io/metoro-mcp-server",
+    "report_url": "https://spiderrating.com/s/metoro-io/metoro-mcp-server",
+    "last_scan_at": "2026-03-10T04:37:53.194323+00:00"
+  },
+  {
+    "slug": "nwiizo/tfmcp",
+    "owner": "nwiizo",
+    "repo": "tfmcp",
+    "description": "",
+    "category": "cloud",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 5.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/nwiizo/tfmcp",
+    "report_url": "https://spiderrating.com/s/nwiizo/tfmcp",
+    "last_scan_at": "2026-03-10T04:37:53.171889+00:00"
+  },
+  {
+    "slug": "pierrebrunelle/mcp-server-openai",
+    "owner": "pierrebrunelle",
+    "repo": "mcp-server-openai",
+    "description": "",
+    "category": "ai",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.0,
+      "security": 10.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 0,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/pierrebrunelle/mcp-server-openai",
+    "report_url": "https://spiderrating.com/s/pierrebrunelle/mcp-server-openai",
+    "last_scan_at": "2026-03-10T04:37:53.154958+00:00"
+  },
+  {
+    "slug": "upstash/context7",
+    "owner": "upstash",
+    "repo": "context7",
+    "description": "",
+    "category": "search",
+    "transport": "",
+    "grade": "F",
+    "score": 2.0,
+    "scores": {
+      "description": 5.9,
+      "security": 0.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 5,
+      "high": 0,
+      "medium": 19,
+      "low": 0
+    },
+    "tool_count": 1,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/upstash/context7",
+    "report_url": "https://spiderrating.com/s/upstash/context7",
+    "last_scan_at": "2026-03-10T04:37:53.191574+00:00"
+  },
+  {
+    "slug": "stripe/agent-toolkit",
+    "owner": "stripe",
+    "repo": "agent-toolkit",
+    "description": "",
+    "category": "cloud",
+    "transport": "",
+    "grade": "F",
+    "score": 1.9,
+    "scores": {
+      "description": 1.9,
+      "security": 0.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 2,
+      "high": 2,
+      "medium": 0,
+      "low": 0
+    },
+    "tool_count": 12,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/stripe/agent-toolkit",
+    "report_url": "https://spiderrating.com/s/stripe/agent-toolkit",
+    "last_scan_at": "2026-03-10T04:37:53.196796+00:00"
+  },
+  {
+    "slug": "vercel/ai",
+    "owner": "vercel",
+    "repo": "ai",
+    "description": "",
+    "category": "ai",
+    "transport": "",
+    "grade": "F",
+    "score": 1.8,
+    "scores": {
+      "description": 1.5,
+      "security": 0.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 5,
+      "high": 2,
+      "medium": 16,
+      "low": 0
+    },
+    "tool_count": 125,
+    "stars": 0,
+    "forks": 0,
+    "license": "Apache-2.0",
+    "github_url": "https://github.com/vercel/ai",
+    "report_url": "https://spiderrating.com/s/vercel/ai",
+    "last_scan_at": "2026-03-10T04:37:53.205840+00:00"
+  },
+  {
+    "slug": "pydantic/pydantic-ai",
+    "owner": "pydantic",
+    "repo": "pydantic-ai",
+    "description": "",
+    "category": "ai",
+    "transport": "",
+    "grade": "F",
+    "score": 1.7,
+    "scores": {
+      "description": 1.3,
+      "security": 0.0,
+      "metadata": 4.2
+    },
+    "issues": {
+      "critical": 0,
+      "high": 4,
+      "medium": 7,
+      "low": 0
+    },
+    "tool_count": 24,
+    "stars": 0,
+    "forks": 0,
+    "license": "MIT",
+    "github_url": "https://github.com/pydantic/pydantic-ai",
+    "report_url": "https://spiderrating.com/s/pydantic/pydantic-ai",
+    "last_scan_at": "2026-03-10T04:37:53.201785+00:00"
+  }
+]
