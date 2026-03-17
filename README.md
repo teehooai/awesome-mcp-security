@@ -19,6 +19,40 @@ This isn't a criticism -- it's an opportunity. Every server here can improve, an
 
 > Want to check your own server? `pip install spidershield && spidershield scan .`
 
+---
+
+## 🛡️ MCP Security Tools
+
+Tools for scanning, rating, and protecting MCP servers and agent skills.
+
+| Tool | Description | Install | Links |
+|------|-------------|---------|-------|
+| **[spidershield-mcp](https://github.com/teehooai/spiderrating/tree/master/packages/spidershield-mcp)** | MCP server that exposes SpiderRating security tools — scan repos, get trust scores, check vulnerabilities, enforce policy | `npx spidershield-mcp` | [npm](https://www.npmjs.com/package/spidershield-mcp) · [Docs](https://spiderrating.com) |
+| **[spidershield](https://github.com/teehooai/spidershield)** | CLI scanner for MCP servers — static analysis, YARA rules, dependency audit, trust score output | `pip install spidershield` | [PyPI](https://pypi.org/project/spidershield) · [GitHub](https://github.com/teehooai/spidershield) |
+| **[SpiderRating PreToolUse Hook](https://github.com/teehooai/spiderrating/tree/master/skills/spidershield/hooks)** | Claude Code hook that checks every MCP tool call against SpiderRating before execution — zero install, copy-paste config | Copy config snippet | [Hook template](https://github.com/teehooai/spiderrating/blob/master/skills/spidershield/hooks/pretooluse-hook.json) |
+| **[spidershield skill](https://github.com/teehooai/spiderrating/tree/master/skills/spidershield)** | Claude Code / Cursor / Windsurf skill — `/spidershield scan`, `/spidershield check <owner/repo>`, `/spidershield hook` | Install via SKILL.md | [Skill](https://github.com/teehooai/spiderrating/tree/master/skills/spidershield) |
+| **[spidershield-action](https://github.com/teehooai/spiderrating/tree/master/action)** | GitHub Action — CI gate on trust score threshold, PR comment with findings, badge generation | Add workflow YAML | [action.yml](https://github.com/teehooai/spiderrating/blob/master/action/action.yml) |
+
+**Quick start (MCP server for Claude Desktop):**
+```json
+{
+  "mcpServers": {
+    "spidershield": {
+      "command": "npx",
+      "args": ["spidershield-mcp"]
+    }
+  }
+}
+```
+
+**Quick start (PreToolUse hook — blocks malicious MCP calls automatically):**
+```bash
+curl -sf 'https://api.spiderrating.com/v1/public/check?tool='$TOOL_NAME \
+  | python3 -c "import sys,json; d=json.load(sys.stdin); sys.exit(1 if d.get('block') else 0)"
+```
+
+---
+
 ## Contents
 
 <!-- TOC is auto-generated -->
